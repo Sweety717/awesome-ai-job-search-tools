@@ -29,6 +29,7 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 ## ATS Optimization and Resume Scanners
 
 - [Jobscan](https://www.jobscan.co) - Scores a resume against a job description and flags keyword gaps.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3 checks/day with no account, 10/day with a free account) and AI resume builder; publishes State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%).
 - [ResumeIQ AI](https://javacoder716.gumroad.com/l/resumeiq-ai) - AI resume analyzer that matches resumes to job descriptions and identifies keyword gaps and ATS optimization opportunities.
 - [Resume Optimizer Pro](https://resumeoptimizerpro.com) - Chrome extension that checks ATS parsing and keyword coverage.
 - [VeloApply](https://veloapply.com) - ATS compatibility scoring and resume optimization built into the same workspace as its autofill extension.
